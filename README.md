@@ -31,6 +31,6 @@ The code in this repository is designed to facilitate the analysis of stereo ima
 To use this repository, clone it and install the required dependencies using pip:
 
 ```bash
-git clone https://github.com/yourusername/stereo-image-analysis.git
-cd stereo-image-analysis
+git clone [https://github.com/yourusername/stereo-image-analysis.git](https://github.com/hassan883/Stereo_Image_esitimating_the_distance_from_camera_Analysis_using_Mask_R-CNN_Up.git)
+cd Stereo_Image_esitimating_the_distance_from_camera_Analysis_using_Mask_R-CNN_Up
 pip install numpy opencv-python matplotlib scipy torch torchvision pandas jupyter Pillow
